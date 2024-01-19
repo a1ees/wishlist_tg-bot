@@ -1,4 +1,4 @@
-export const PORT = 3000;
+export const PORT = 4545;
 
 export const botInstructions = `
 БОТ НАХОДИТСЯ В СТАДИИ РАЗРАБОТКИ!! АЙТЕМЫ МОГУТ БЫТЬ УДАЛЕНЫ
